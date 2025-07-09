@@ -1,6 +1,6 @@
 # Fault Detection in Buck Converter using Machine Learning ⚡
 
-This is a simple project where I used Python and machine learning to detect faults in a Buck Converter using voltage and current waveforms.
+ This project where applies Python and machine learning techniques to detect faults in a Buck Converter using voltage and current waveforms.
 
 ---
 
